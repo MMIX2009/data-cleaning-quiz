@@ -38,7 +38,7 @@ pip install streamlit
 3. Run the app:
 
 ```bash
-streamlit run quiz_app.py
+streamlit run app.py
 ```
 
 ---
